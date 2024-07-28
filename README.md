@@ -20,4 +20,4 @@ Then run
 
 ``$ python tester.py``
 
-From the GUI, you can modify the registers to control their actions very similarly to how the CPU actually operates.
+From the GUI, you can modify the registers to control their actions very similarly to how the CPU actually operates!
