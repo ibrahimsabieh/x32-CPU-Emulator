@@ -2,7 +2,7 @@
 
 This repo contains python code for a 32 bit CPU architecture simulator, with a GUI.
 
-It is a high level look at the x32 architecture for CPUs. The program gives you control over the 32 bit registers and it allows for setting the registers to and, or, add, subtract, slt (set less then), and multiply registers.
+It is a high level look at the x32 architecture for CPUs. The program gives you control over the 32 bit registers and allows for setting the registers to and, or, add, subtract, slt (set less then), and multiply.
 
 When you execute your set registers, the output reveals the resulting 32 bit registers.
 
